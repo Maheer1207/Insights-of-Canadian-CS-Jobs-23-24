@@ -4,7 +4,7 @@ This project provides interactive data-driven insights into the Canadian Compute
 
 ---
 
-## 🚀 Features
+## Features
 
 1. **Opportunity To Applicant Ratio**:
    - Analyze job postings versus application volume across sectors, comparing interest and opportunities for various industries.
@@ -26,7 +26,7 @@ This project provides interactive data-driven insights into the Canadian Compute
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 The repository contains the following components:
 
@@ -41,7 +41,7 @@ The repository contains the following components:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Python**:
   - Data cleaning, preprocessing, and transformation using Pandas and NumPy.
@@ -54,7 +54,7 @@ The repository contains the following components:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset for this project includes job postings and metadata related to roles, industries, locations, and application counts. It was sourced and cleaned using Python.
 
@@ -62,7 +62,7 @@ The dataset for this project includes job postings and metadata related to roles
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 
 1. Most opportunities exist in **Technology** and **Software Development** sectors.
 2. Hiring peaks during **Winter**, with notable dips in **Spring**.
@@ -71,7 +71,7 @@ The dataset for this project includes job postings and metadata related to roles
 
 ---
 
-## 🖥 How to Access the Dashboard
+## How to Access the Dashboard
 
 1. Clone this repository.
 2. Open the Tableau workbook (`Insights_of_Canadian_CS_Jobs.twbx`) using Tableau Public or Tableau Desktop.
@@ -80,7 +80,7 @@ The dataset for this project includes job postings and metadata related to roles
 
 ---
 
-## 📞 Contact
+## Contact
 
 If you have any questions or want to learn more about this project, feel free to contact me:
 
